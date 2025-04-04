@@ -1,5 +1,6 @@
 # 🐍 Cowrie Honeypot with Slack Alerts
 A project that sets up [Cowrie](https://github.com/cowrie/cowrie), an SSH honeypot, on a Linux host and integrates it with Slack for real-time alerts on malicious activity.
+
 [Demo](https://www.youtube.com/watch?v=l_SEl9Qs5oU&ab_channel=FalynneArmstrong)
 
 ![image](https://github.com/user-attachments/assets/ac82273d-3817-401c-aa4d-dbe5494457b8)
